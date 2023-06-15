@@ -1,2 +1,2 @@
 # ListMenu
-Adds back compatibility to UIMenu replacing with UIAlertController for iOS SDK before 14.0
+Adds back compatibility to UIMenu by replacing it with UIAlertController for iOS SDK versions prior to 14.0
