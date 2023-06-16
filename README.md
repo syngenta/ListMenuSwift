@@ -1,4 +1,4 @@
-# ListMenu
+# ListMenuSwift
 Adds back compatibility to UIMenu by replacing it with UIAlertController for iOS SDK versions prior to 14.0
 
 *(iOS SDK >=14.0 and <14.0 has different representation for the menu)*
@@ -15,7 +15,7 @@ To play with usage example navigate to ListMenuExample folder and look at ListMe
 ### Swift Package Manager
 
 - File > Swift Packages > Add Package Dependency
-- Add `https://github.com/cropio/ListMenu.git`
+- Add `https://github.com/syngenta/ListMenuSwift.git`
 
 ## Usage 
 
